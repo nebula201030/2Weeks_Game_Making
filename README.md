@@ -2,6 +2,6 @@
 
 ## Tools
   $ 1. C#
-  # 2. C++
-  # 3.python 
+  $ 2. C++
+  $ 3.python 
 
