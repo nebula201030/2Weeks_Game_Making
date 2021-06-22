@@ -1,3 +1,7 @@
 # 2Weeks_Game_Making
 
-## I'm gey ~
+## Tools
+  $ 1. C#
+  # 2. C++
+  # 3.python 
+
